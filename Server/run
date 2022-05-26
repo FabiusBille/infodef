@@ -1,0 +1,6 @@
+To run this server use WebStorm console
+1:change directory (cd Server)
+2:enter command (npm run dev)
+Для запуска сервера необходимо использовать webStorm консоль
+1:Сменить директорий на Server
+2:ввести команду для менеджера пакетов (npm run dev)

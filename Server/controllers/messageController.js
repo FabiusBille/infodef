@@ -108,7 +108,7 @@ class MessageController {
              const boddy = req.body;
 
 
-             var time = Date.parse(Date.now())
+             var time = Date.now()+0
 
              var userrr = boddy.to
              if ((!userrr) || !boddy.message || !boddy.to || !boddy.title ) {

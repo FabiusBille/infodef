@@ -97,7 +97,7 @@ const boddy = req.body
     var token = generate_jwt(user)
     console.log(token)
 
-return  res.status(201).json({token})
+return  res.status(200).json({token})
 }
 catch(e){
     return res.status(400).json("Неверные данные при входе")}

@@ -1,5 +1,6 @@
 # infodef <br/>
  server <br/>
+[Ссылка на клиент](https://github.com/OS01GLADOS/Secure_messenger_flutter)
 Сервер храниться в папке Server, запуск осуществляется с использованием WebStorm консоли путёмм ввода команды npm run dev <br/>
 Эта команда запускает другую команду nodemon index.js, где index.js - точка входа <br/>
 Для корректной работы сервера требуется перечень зависимостей: <br/>
